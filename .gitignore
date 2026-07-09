@@ -36,3 +36,4 @@ yarn-error.log*
 .parcel-cache/
 .eslintcache
 .vite/
+backend/scratch/
